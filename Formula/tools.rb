@@ -7,5 +7,6 @@ class Tools < Formula
 
   def install
     bin.install "aws-account-number"
+    bin.install "aws-account-aliases"
   end
 end
