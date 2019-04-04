@@ -3,7 +3,7 @@ class Tools < Formula
   homepage "https://github.com/aug24/justin-tools"
   version "0.0.3"
   url "https://github.com/aug24/justin-tools/archive/0.0.4.tar.gz"
-  sha256 "b9e5d5bdb9a53273c58f67585b6f05df57d01398365f67a651304b2bbf4461b0"
+  sha256 "568790931efa3f3d98558273f2bd40dfae6add64e9ea9c6156d36c496e4b3d52"
 
   def install
     bin.install "aws-account-aliases"
