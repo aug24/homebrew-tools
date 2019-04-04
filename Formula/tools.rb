@@ -2,8 +2,8 @@ class Tools < Formula
   desc "Various aws tools"
   homepage "https://github.com/aug24/justin-tools"
   version "0.0.3"
-  url "https://github.com/aug24/justin-tools/releases/download/0.0.3/justin-tools.tar.gz"
-  sha256 "2c9c2307287fd213981732d72e9b620fff56b66093a5cdc5ffc5ae23f7e2df8a"
+  url "https://github.com/aug24/justin-tools/archive/0.0.4.tar.gz"
+  sha256 "b9e5d5bdb9a53273c58f67585b6f05df57d01398365f67a651304b2bbf4461b0"
 
   def install
     bin.install "aws-account-aliases"
